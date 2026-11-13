@@ -1,0 +1,23 @@
+{
+  "language": "auto",
+  "theme": "auto",
+  "currencies": ["USD", "CNY", "JPY"],
+  "currency": "USD",
+  "costPrice": "",
+  "costIncludesTax": true,
+  "quantity": "1",
+  "taxRate": 13,
+  "rebateRate": 13,
+  "profitOpen": false,
+  "markupRate": 20,
+  "manualRates": {},
+  "baseCurrency": "CNY",
+  "ratesOpen": true,
+  "decimals": 2,
+  "autoRefreshHours": 3,
+  "alwaysOnTop": false,
+  "autoLaunch": false,
+  "shortcut": "Alt+`",
+  "trayHintShown": false,
+  "bounds": null
+}

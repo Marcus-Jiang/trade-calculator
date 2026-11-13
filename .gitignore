@@ -1,0 +1,9 @@
+node_modules/
+out/
+dist/
+*.log
+.DS_Store
+
+.smoke*.png
+src-tauri/target/
+.tauri-smoke/
